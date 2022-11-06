@@ -1,6 +1,10 @@
 # uiassi
 
 Splash,Login and signup-2
+![image](https://user-images.githubusercontent.com/87460435/200155685-f0ef222e-71b7-42c6-a93c-1eda2ece27c5.png)
+![image](https://user-images.githubusercontent.com/87460435/200155689-71209ae9-dc2d-4ad6-8127-251736f78453.png)
+![image](https://user-images.githubusercontent.com/87460435/200155696-7928b4b2-a375-4d8a-bd5b-e47a07c22c59.png)
+
 
 ## Getting Started
 
