@@ -1,4 +1,4 @@
-# uiassi
+# Login Page Assignment
 
 Splash,Login and signup-2
 ![image](https://user-images.githubusercontent.com/87460435/200155685-f0ef222e-71b7-42c6-a93c-1eda2ece27c5.png)
